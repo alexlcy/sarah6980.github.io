@@ -2,6 +2,7 @@
   "name": "example",
   "version": "0.1.2",
   "main": "./bundle.js",
+  "homepage": "https://alexlcy.github.io/sarah6980.github.io/index.js"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
